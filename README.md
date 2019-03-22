@@ -1,6 +1,6 @@
 # 「Pythonで体験するベイズ推論」をJuliaで体験
 
-Cameron Davidson-Pilon著、玉木徹訳「Pythonで体験するベイズ推論 -PyMCによるMCMC入門-」
+Cameron Davidson-Pilon著、玉木徹訳「[Pythonで体験するベイズ推論 -PyMCによるMCMC入門-](https://www.morikita.co.jp/books/book/3155)」
 を[Julia](https://julialang.org/)と[Mamba](https://github.com/brian-j-smith/Mamba.jl)で体験してみる。著者が管理する本のリポジトリは[こちら](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)。
 
 - 第1章 ベイズ推論の考え方  
