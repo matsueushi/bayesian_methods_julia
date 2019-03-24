@@ -9,3 +9,4 @@ Cameron Davidson-Pilon著、玉木徹訳「[Pythonで体験するベイズ推論
     - [2.2.1 同じ物語、異なる結末](chapter2_simulate_model.ipynb)  
     - [2.2.2 例題: ベイズ的 A/Bテスト](chapter2_ab_test.ipynb)
     - [2.2.7 例題: カンニングした学生の割合](chapter2_cheat.ipynb)
+    - [2.2.10 例題: スペースシャトル「チャレンジャー号」の悲劇](chapter2_challenger.ipynb)
