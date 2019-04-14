@@ -12,3 +12,4 @@ Cameron Davidson-Pilon著、玉木徹訳「[Pythonで体験するベイズ推論
     - [2.2.10 例題: スペースシャトル「チャレンジャー号」の悲劇](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter2_challenger.ipynb)
 - 第3章 MCMCの中をのぞいてみよう
     - [3.1.4 例題: 混合モデルの教師なしクラスタリング](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter3_mixture.ipynb)
+    - [3.2 収束性の解析](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter3_convergence.ipynb)
