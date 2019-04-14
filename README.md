@@ -15,3 +15,4 @@ Cameron Davidson-Pilon著、玉木徹訳「[Pythonで体験するベイズ推論
     - [3.2 収束性の解析](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter3_convergence.ipynb)
 - 第4章 偉大な定理、登場
     - [4.2.2 例題: ポアソン分布に従う確率変数の収束](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter4_poisson.ipynb)
+    - [4.3.1 例題: 集約されたデータの扱い](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter4_population.ipynb)
