@@ -18,5 +18,7 @@ Cameron Davidson-Pilon著、玉木徹訳「[Pythonで体験するベイズ推論
     - [4.3.1 例題: 集約されたデータの扱い](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter4_population.ipynb)
 - 第5章 損失はおいくら？
     - [5.2.2 例題: テレビ番組 "The Price Is Right"の最適化](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter5_thepriceisright.ipynb)
-    - [5.3.1 例題 : 株価の予測](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter5_stock.ipynb)
-    - [5.3.2 例題 : Kaggleコンテスト「ダークマターの観測」](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter5_halos.ipynb)
+    - [5.3.1 例題: 株価の予測](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter5_stock.ipynb)
+    - [5.3.2 例題: Kaggleコンテスト「ダークマターの観測」](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter5_halos.ipynb)
+- 第6章 事前分布をハッキリさせよう
+    -  [6.4 例題: ベイズ多腕バンディット](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter6_bandits.ipynb)
