@@ -22,3 +22,4 @@ Cameron Davidson-Pilon著、玉木徹訳「[Pythonで体験するベイズ推論
     - [5.3.2 例題: Kaggleコンテスト「ダークマターの観測」](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter5_halos.ipynb)
 - 第6章 事前分布をハッキリさせよう
     -  [6.4 例題: ベイズ多腕バンディット](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter6_bandits.ipynb)
+    -  [6.5 例題: 株売買の収益](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter6_stock.ipynb)
