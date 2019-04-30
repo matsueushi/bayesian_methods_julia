@@ -23,3 +23,4 @@ Cameron Davidson-Pilon著、玉木徹訳「[Pythonで体験するベイズ推論
 - 第6章 事前分布をハッキリさせよう
     -  [6.4 例題: ベイズ多腕バンディット](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter6_bandits.ipynb)
     -  [6.5 例題: 株売買の収益](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter6_stock.ipynb)
+- 第7章 [ベイズA/Bテスト](https://nbviewer.jupyter.org/github/matsueushi/bayesian_methods_julia/blob/master/chapter7_bayes_abtest.ipynb)
